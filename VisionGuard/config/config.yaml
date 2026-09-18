@@ -1,0 +1,17 @@
+camera:
+  index: 0
+  width: 1280
+  height: 720
+
+face_recognition:
+  tolerance: 0.50
+  model: "hog"
+
+object_detection:
+  model: "yolo11n.pt"
+  confidence: 0.40
+
+monitoring:
+  log_events: true
+  show_fps: true
+  unknown_face_alert: true
