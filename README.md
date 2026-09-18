@@ -19,7 +19,7 @@
 | Detail                  | Information                                       |
 | ----------------------- | ------------------------------------------------- |
 | **Name**                | **Manvi**                                   |
-| **Registration Number** | **`24BAI10510**                    |
+| **Registration Number** | **24BAI10510**                    |
 | **Program**             | B.Tech — Computer Science & Engineering (AI & ML) |
 | **University**          | VIT Bhopal University                             |
 | **Project Title**       | VisionGuard                                       |
