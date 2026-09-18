@@ -18,8 +18,8 @@
 
 | Detail                  | Information                                       |
 | ----------------------- | ------------------------------------------------- |
-| **Name**                | **Manvi Punia**                                   |
-| **Registration Number** | **`YOUR_REGISTRATION_NUMBER`**                    |
+| **Name**                | **Manvi**                                   |
+| **Registration Number** | **`24BAI10510**                    |
 | **Program**             | B.Tech — Computer Science & Engineering (AI & ML) |
 | **University**          | VIT Bhopal University                             |
 | **Project Title**       | VisionGuard                                       |
@@ -712,7 +712,5 @@ The project documentation also covers dataset description, model selection, and 
 ### 🛡️ VisionGuard
 
 **See. Recognize. Detect. Monitor.**
-
-Made with ❤️ using Python & Computer Vision
 
 </p>
